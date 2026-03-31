@@ -316,6 +316,6 @@ outperform brute-force combinational optimization
 
 ## Author
 
-Oluwaferanmi Arowoshola  
-Electrical & Computer Engineering  
-Minnesota State University, Mankato
+Oluwaferanmi Arowoshola
+M.S. Electrical & Computer Engineering
+Embedded Systems · Real-Time Systems · IoT
